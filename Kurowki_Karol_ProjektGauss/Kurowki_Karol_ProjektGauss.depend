@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641331064 source:c:\users\karol\documents\codeblocks\kurowki_karol_projektgauss\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
+1642350437 source:c:\users\karol\desktop\algorytmy analizy numerycznej - laby\kurowki_karol_projektgauss\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
